@@ -1,6 +1,6 @@
 # Casey Moser: technical portfolio
 
-From January to November 2026 I built LLM-based analysis tools at a policy research organization. The work spans multi-stage LLM pipelines that read laws and regulations and produce cost estimates, reproducible pipelines over public federal data, geospatial datasets, document automation, and the AWS deployments behind them.
+I built LLM-based analysis tools at a policy research organization. The work spans multi-stage LLM pipelines that read laws and regulations and produce cost estimates, reproducible pipelines over public federal data, geospatial datasets, document automation, and the AWS deployments behind them.
 
 This portfolio describes that work at the level I would discuss in an interview. It contains no employer code, prompts, data, or internal documents. See [About this portfolio](#about-this-portfolio).
 
