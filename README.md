@@ -41,9 +41,8 @@ How these figures were measured is in [Notes on numbers](NOTES-ON-NUMBERS.md).
 | 01 | [LLM cost-estimation platform](projects/01-llm-cost-estimation-platform/) | Built four estimators, then unified them into one platform as primary developer | Jan to Nov 2026 |
 | 02 | [Fifty-state legal-source toolkit](projects/02-fifty-state-legal-source-toolkit/) | Designed the toolkit and onboarded 49 states | Sep to Nov 2026 |
 | 03 | [Zoning ordinance extraction and housing-cost scoring](projects/03-zoning-ordinance-extraction/) | Sole developer; public map | Aug to Oct 2026 |
-| 05 | [Federal property in Washington, DC](projects/05-dc-federal-property-map/) | Sole developer; public map | Oct 2026 |
-| 06 | [Document formatting service](projects/06-document-formatting-service/) | Primary developer of the web service | Jan to Oct 2026 |
-| 07 | [Regulation retrospective pipeline](projects/07-regulation-retrospective/) | Contributor: outcome measurement and verification | Jun to Jul 2026 |
+| 04 | [Federal property in Washington, DC](projects/05-dc-federal-property-map/) | Sole developer; public map | Oct 2026 |
+| 05 | [Document formatting service](projects/06-document-formatting-service/) | Primary developer of the web service | Jan to Oct 2026 |
 
 ## Applied analyses
 
