@@ -66,6 +66,6 @@ How these figures were measured is in [Notes on numbers](NOTES-ON-NUMBERS.md).
 
 ## About this portfolio
 
-Everything here describes work I did as an employee of a policy research organization between January and November 2026. The systems, code, data, and analyses described belong to that employer.
+Everything here describes work I did as an employee of a policy research organization between September 2025 and November 2026. The systems, code, data, and analyses described belong to that employer.
 
 This portfolio contains none of the employer's source code, prompts, data, internal documents, or unpublished findings, and it does not describe the employer's methodology beyond what the employer has published. It names public data sources and open-source tools, links to two tools the employer has made public, and gives volume figures about my own work. Colleagues, clients, and partners are not named.
