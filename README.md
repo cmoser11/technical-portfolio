@@ -50,7 +50,7 @@ How these figures were measured is in [Notes on numbers](NOTES-ON-NUMBERS.md).
 |---|---|---|
 | [Onboarding a new state: Mississippi](analyses/02-state-mode-first-live-trial/) | New state readers and a first live trial of all four estimators | Sep to Nov 2026 |
 | [A 389-document guidance corpus](analyses/03-guidance-corpus-run/) | Production batch run with provenance for every result | Jun to Oct 2026 |
-| [Other campaigns](analyses/04-other-campaigns.md) | Housing reforms, bill scores, a repeal calibration, and more | 2026 |
+| [Other campaigns](analyses/04-other-campaigns.md) | Housing reforms, bill scores, an end-to-end calibration run, and more | 2026 |
 
 ## Smaller tools
 
