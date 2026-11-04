@@ -6,6 +6,8 @@ An AI tool that reads local zoning ordinances, development regulations, and buil
 
 **Live tool:** [Texas housing regulation cost map](https://texas-housing-cost-map.dev.cmoser.ofra.io/)
 
+![The public map: Texas municipalities shaded by estimated regulatory cost per new home, north and central Texas](images/map.jpg)
+
 ## The problem
 
 Local rules such as minimum lot sizes, setbacks, parking minimums, fees, and permitting steps add to the cost of new housing. They are scattered across hundreds of ordinances in inconsistent formats, many of them scanned, so measuring them consistently across a whole state means reading every ordinance.
