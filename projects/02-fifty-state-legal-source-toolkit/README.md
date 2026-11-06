@@ -38,4 +38,4 @@ Python, requests, Playwright, pypdf, pdftotext, pytest with fixture-based HTTP t
 
 ## Not covered here
 
-Which sources each state uses, how texts are brought up to date, and the onboarding protocol's details belong to my employer and are not described. For a worked example of one state's onboarding, see [the first live trial of a new state](../../analyses/02-state-mode-first-live-trial/).
+Which sources each state uses, how texts are brought up to date, and the onboarding protocol's details belong to my employer and are not described. For a worked example of one state's onboarding, see [the first live trial of a new state](../../analyses/01-state-mode-first-live-trial/).
