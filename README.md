@@ -7,7 +7,7 @@ This portfolio describes that work at the level I would discuss in an interview.
 ## Live public tools
 
 - **[Texas housing regulation cost map](https://texas-housing-cost-map.dev.cmoser.ofra.io/)** estimates what local zoning and building rules add to the cost of a new home, statewide. [Case study](projects/03-zoning-ordinance-extraction/)
-- **[Federal property in Washington, DC](https://dc-federal-property-map.dev.cmoser.ofra.io/)** maps land the U.S. government controls in the capital, by form of control and agency. [Case study](projects/05-dc-federal-property-map/)
+- **[Federal property in Washington, DC](https://dc-federal-property-map.dev.cmoser.ofra.io/)** maps land the U.S. government controls in the capital, by form of control and agency. [Case study](projects/04-dc-federal-property-map/)
 
 ## At a glance
 
@@ -25,13 +25,13 @@ How these figures were measured is in [Notes on numbers](NOTES-ON-NUMBERS.md).
 
 | Area | What I did | Where |
 |---|---|---|
-| LLM systems | Multi-stage pipelines over legal text, structured extraction, repeated sampling with agreement checks, record-and-replay testing of model calls, a provider migration, spend metering | [01](projects/01-llm-cost-estimation-platform/), [03](projects/03-zoning-ordinance-extraction/), [07](projects/07-regulation-retrospective/) |
-| Data engineering | Joining public federal datasets, record linkage with human review, provenance manifests, reconciliation and golden-number tests | [05](projects/05-dc-federal-property-map/), [02](projects/02-fifty-state-legal-source-toolkit/) |
+| LLM systems | Multi-stage pipelines over legal text, structured extraction, repeated sampling with agreement checks, record-and-replay testing of model calls, a provider migration, spend metering | [01](projects/01-llm-cost-estimation-platform/), [03](projects/03-zoning-ordinance-extraction/), [06](projects/06-regulation-retrospective/) |
+| Data engineering | Joining public federal datasets, record linkage with human review, provenance manifests, reconciliation and golden-number tests | [04](projects/04-dc-federal-property-map/), [02](projects/02-fifty-state-legal-source-toolkit/) |
 | Web extraction at scale | Polite crawling, robots.txt compliance, PDF and scanned-document handling, headless browsers, offline test fixtures | [02](projects/02-fifty-state-legal-source-toolkit/), [03](projects/03-zoning-ordinance-extraction/) |
-| Geospatial | Parcel classification from many public layers, geometry cleanup, web maps and print posters | [05](projects/05-dc-federal-property-map/), [03](projects/03-zoning-ordinance-extraction/) |
-| Web and infrastructure | FastAPI, Vue, server-sent events, Docker, ECS Fargate, CloudFormation, CodeBuild, Copilot, single sign-on, CI gates | [01](projects/01-llm-cost-estimation-platform/), [05](projects/05-dc-federal-property-map/), [06](projects/06-document-formatting-service/) |
-| Document automation | Office Open XML formatting, Word and Excel generation at scale | [06](projects/06-document-formatting-service/), [01](projects/01-llm-cost-estimation-platform/) |
-| Testing and QA | Large test suites, deterministic tests for LLM systems, independent human review, inter-rater agreement | [05](projects/05-dc-federal-property-map/), [01](projects/01-llm-cost-estimation-platform/) |
+| Geospatial | Parcel classification from many public layers, geometry cleanup, web maps and print posters | [04](projects/04-dc-federal-property-map/), [03](projects/03-zoning-ordinance-extraction/) |
+| Web and infrastructure | FastAPI, Vue, server-sent events, Docker, ECS Fargate, CloudFormation, CodeBuild, Copilot, single sign-on, CI gates | [01](projects/01-llm-cost-estimation-platform/), [04](projects/04-dc-federal-property-map/), [05](projects/05-document-formatting-service/) |
+| Document automation | Office Open XML formatting, Word and Excel generation at scale | [05](projects/05-document-formatting-service/), [01](projects/01-llm-cost-estimation-platform/) |
+| Testing and QA | Large test suites, deterministic tests for LLM systems, independent human review, inter-rater agreement | [04](projects/04-dc-federal-property-map/), [01](projects/01-llm-cost-estimation-platform/) |
 | Applied analysis | Batch campaigns over hundreds of documents for policy audiences | [Applied analyses](#applied-analyses) |
 
 ## Projects
@@ -41,8 +41,9 @@ How these figures were measured is in [Notes on numbers](NOTES-ON-NUMBERS.md).
 | 01 | [LLM cost-estimation platform](projects/01-llm-cost-estimation-platform/) | Built four estimators, then unified them into one platform as primary developer | Jan to Nov 2026 |
 | 02 | [Fifty-state legal-source toolkit](projects/02-fifty-state-legal-source-toolkit/) | Designed the toolkit and onboarded 49 states | Sep to Nov 2026 |
 | 03 | [Zoning ordinance extraction and housing-cost scoring](projects/03-zoning-ordinance-extraction/) | Sole developer; public map | Aug to Oct 2026 |
-| 04 | [Federal property in Washington, DC](projects/05-dc-federal-property-map/) | Sole developer; public map | Oct 2026 |
-| 05 | [Document formatting service](projects/06-document-formatting-service/) | Primary developer of the web service | Jan to Oct 2026 |
+| 04 | [Federal property in Washington, DC](projects/04-dc-federal-property-map/) | Sole developer; public map | Oct 2026 |
+| 05 | [Document formatting service](projects/05-document-formatting-service/) | Primary developer of the web service | Jan to Oct 2026 |
+| 06 | [Regulation retrospective pipeline](projects/06-regulation-retrospective/) | Contributor: outcome measurement and verification | Jun to Jul 2026 |
 
 ## Applied analyses
 
